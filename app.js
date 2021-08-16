@@ -1,4 +1,4 @@
-AOS.init();
+// AOS.init();
 
 // Code For Nav Toggle Button
 
