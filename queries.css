@@ -1,0 +1,207 @@
+@media only screen and (max-width: 914px) {
+  .heading {
+    font-size: 25px;
+  }
+  .heading p {
+    font-size: 12px;
+  }
+}
+@media only screen and (min-width: 992px) {
+  ul li {
+    color: #fff;
+  }
+  
+}
+
+@media only screen and (max-width: 337px) {
+  .coursename {
+    font-size: 13px;
+  }
+}
+@media only screen and (max-width: 376px) {
+  .social i {
+    margin: 5px;
+  }
+  .teacherdata {
+    padding: 5px;
+    width: 60%;
+    left: 20%;
+    right: 20%;
+  }
+}
+
+@media screen and (max-height: 400px) {
+  .tagline p {
+    margin-bottom: 0px;
+  }
+  .teacher {
+    min-height: 450px;
+  }
+}
+@media only screen and (max-width: 685px) {
+  .tagline {
+    top: 95px;
+  }
+  .logo {
+    font-size: 22px;
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  .whyus {
+    max-width: 28%;
+  }
+  .prices {
+    max-width: 72%;
+  }
+}
+
+@media only screen and (max-width: 991px) {
+  .whyus {
+    align-self: center;
+  }
+
+  ul {
+    padding: 0px 5%;
+    opacity: 0.5;
+    height: 100vh;
+    text-align: center;
+    display: block;
+    position: fixed;
+    top: 15%;
+    left: -100%;
+    width: 65%;
+    background-color: white;
+  }
+  ul li {
+    padding: 30px;
+    display: block;
+  }
+
+  .bi-list , .bi-x{
+    display: block;
+  }
+  .header {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+  }
+  .tagline {
+    align-self: center;
+    justify-self: center;
+  }
+
+  #about {
+    flex-direction: column-reverse;
+  }
+
+  #prices {
+    flex-direction: column;
+  }
+}
+
+@media only screen and (max-width: 530px) {
+  .pad {
+    padding: 10px 20px !important;
+  }
+  .picbutton {
+    padding: 10px 10px;
+    margin: 4px;
+  }
+}
+
+@media only screen and (max-width: 252px) {
+  .pad {
+    padding: 10px 15px !important;
+  }
+  .picbutton {
+    padding: 10px 10px;
+    margin: 4px;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+ .contactcont , .contactcont2{
+  max-width: 48%;
+  }
+
+
+  .contactcont2{
+    margin-left: 4%;
+  }
+
+}
+
+
+@media only screen and (max-width: 390px) {
+  .package {
+    padding: 10%}
+    
+    .bi-zoom-in {
+      top: 65%;
+      left: 84%;}
+
+}
+@media only screen and (max-width: 300px)  {
+.place p {
+  font-size: 12px;
+  top: 0%;}
+}
+
+@media only screen and (max-width: 350px)  {
+  .place p {
+    font-size: 13px;
+    top: 10%;}
+  }
+
+@media only screen and (min-width: 460px) {
+  .place p {
+    font-size: px;
+    top: 10%;}
+  }
+  @media only screen and (min-width: 500px) {
+    .place p {
+     
+      top: 20%!important;}
+    }
+  @media only screen and (min-width: 290px) {
+    .place p {
+      font-size: 17px;
+      top: 10%;}
+    }
+
+@media only screen and (min-width: 992px) and (max-width: 1199px)  {
+  .whyus h1 {
+    padding: 50% 0% 6% 0%;}
+  .package{padding: 0%;}
+  .whyus p {
+    padding: 15% 0% 50% 0%;}
+    .pricecat {
+      padding: 1% 5% 0% 5%;
+  }
+ 
+.prices div:nth-child(1){padding-left: 5%;}
+}
+@media only screen and (min-width: 1200px) {
+  .package {
+    padding: 10%;}
+    .content{    padding: 15%;}
+      .content h4 {  margin: 25% 0% 10% 0%;}
+  
+}
+
+@media only screen and (max-width: 340px) {
+  
+.rank{
+  flex-direction: column;
+    justify-content: center!important;
+}
+
+.rank div{
+  justify-content: space-evenly;
+}
+.name {
+  margin-left: 5px;
+}
+}
